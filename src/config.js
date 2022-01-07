@@ -50,7 +50,7 @@ const format = {
 const gif = {
   export: false,
   repeat: 0,
-  quality: 100,
+  quality: 10,
   delay: 500,
 };
 
